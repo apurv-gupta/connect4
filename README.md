@@ -1,3 +1,5 @@
 # connect4
 
-Under construction. Come later.
+Development is about to start.
+
+
